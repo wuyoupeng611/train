@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>train-common</module>
+        <module>train-member</module>
     </modules>
 
     <parent>
